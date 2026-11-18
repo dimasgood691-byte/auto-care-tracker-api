@@ -163,7 +163,6 @@ Keamanan *backend* REST API ditingkatkan melalui penerapan hierarki hak akses (*
 
 ```bash
 git clone https://github.com/dimasgood691-byte/auto-care-tracker-api.git
-cd "Project Auto Care Tracker"
 ```
 
 #### [2] Setup Database SQL Server
